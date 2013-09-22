@@ -3,3 +3,11 @@ debian/*.debhelper.log
 debian/*.substvars
 debian/files
 debian/python-ntlm
+*.pyc
+setup.cfg
+setup.py
+build
+ntlm
+ntlm_examples
+PKG-INFO
+python_ntlm.egg-info
