@@ -5,9 +5,12 @@ Source: https://pypi.python.org/pypi/python-ntlm
 
 Files: debian/*
 Copyright: 2013 Orvant Maintainers
+License: LGPL
 
 Files: *
 Copyright: Matthijs Mullender 2009-2013
+License: LGPL
+
 License: LGPL
  This library is free software; you can redistribute it and/or modify it under
  the terms of the GNU Lesser General Public License as published by the Free
