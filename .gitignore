@@ -11,3 +11,4 @@ ntlm
 ntlm_examples
 PKG-INFO
 python_ntlm.egg-info
+.pc
