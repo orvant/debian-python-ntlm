@@ -1,0 +1,17 @@
+Source: python-ntlm
+Maintainer: Orvant Maintainers <dev@orvant.com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7.4.3)
+Standards-Version: 3.9.4
+
+Package: python-ntlm
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Python library that provides NTLM support.
+ Python library that provides NTLM support, including an authentication handler
+ for urllib2. (includes python-ntlm-fixed patch) This package allows Python
+ clients running on any operating system to provide NTLM authentication to a
+ supporting server. python-ntlm is probably most useful on platforms that are
+ not Windows, since on Windows it is possible to take advantage of
+ platform-specific NTLM support.
