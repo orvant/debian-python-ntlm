@@ -1,5 +1,5 @@
-python-ntlm (1.0.1-1) stable; urgency=low
+python-ntlm (1.0.1-1) unstable; urgency=low
 
-  * Initial release.
+  * Initial release (closes: #719901).
 
- -- Orvant Maintainers <dev@orvant.com>  Tue, 17 Sep 2013 07:40:29 +0000
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Sun, 22 Sep 2013 12:36:47 +0200
