@@ -1,8 +1,8 @@
-python-ntlm (1.0.1-1~bpo60+1) squeeze-backports; urgency=low
+python-ntlm (1.0.1-1~bpo70+1) wheezy-backports; urgency=low
 
-  * Rebuild for squeeze-backports (local package).
+  * Rebuild for wheezy-backports.
 
- -- Orvant Maintainers <dev@orvant.com>  Wed, 02 Oct 2013 06:14:50 +0000
+ -- Orvant Maintainers <dev@orvant.com>  Mon, 28 Oct 2013 20:11:37 +0000
 
 python-ntlm (1.0.1-1) unstable; urgency=low
 
